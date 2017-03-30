@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/07/10 17:05:39.000.901,=C:\Users\Gustavo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/23 08:38:32.000.919,=C:\Users\Gustavo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2015/10/23 08:43:40.000.177,=C:\Users\Gustavo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/09 16:36:31.000.349,=C:\Users\Gustavo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/09 16:38:22.000.218,D:\Clodoaldo\Desenvolvimento de Software\Workspace\SistemaPonto\UPrincipal.pas=C:\Users\Gustavo\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/09 16:38:22.000.218,D:\Clodoaldo\Desenvolvimento de Software\Workspace\SistemaPonto\UPrincipal.dfm=C:\Users\Gustavo\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/09/09 16:38:44.000.990,D:\Clodoaldo\Desenvolvimento de Software\Workspace\SistemaPonto\Ponto.dproj=C:\Users\Gustavo\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/09/12 10:45:49.000.249,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit2.pas</Transaction>
+    <Transaction>2016/09/12 10:50:36.000.338,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit2.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uSobre.pas</Transaction>
+    <Transaction>2016/09/12 10:50:36.000.338,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit2.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uSobre.dfm</Transaction>
+    <Transaction>2016/09/13 08:22:56.000.350,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/13 08:38:14.000.987,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uFuncoes.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/13 11:45:41.000.730,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/13 11:46:32.000.981,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uCofig.pas</Transaction>
+    <Transaction>2016/09/13 11:46:32.000.981,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uCofig.dfm</Transaction>
+    <Transaction>2016/09/14 09:48:05.000.927,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/14 09:48:33.000.796,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uConstates.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/15 10:25:15.000.572,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/15 15:13:16.000.934,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uDmDados.pas</Transaction>
+    <Transaction>2016/09/15 15:13:16.000.934,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uDmDados.dfm</Transaction>
+    <Transaction>2016/09/16 15:17:05.000.573,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/16 15:19:54.000.444,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.dfm</Transaction>
+    <Transaction>2016/09/16 15:19:54.000.444,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/20 11:42:17.000.992,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/20 11:44:58.000.288,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/20 11:45:04.000.936,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.dfm</Transaction>
+    <Transaction>2016/09/20 11:45:04.000.936,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/22 16:02:23.000.562,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/22 16:16:47.000.929,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uMsgUsuarioSemOutorizacao.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.pas</Transaction>
+    <Transaction>2016/09/22 16:16:47.000.929,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uMsgUsuarioSemOutorizacao.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\Unit1.dfm</Transaction>
+    <Transaction>2016/09/23 11:00:50.000.246,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uFeriado.pas</Transaction>
+    <Transaction>2016/09/23 11:00:50.000.246,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uFeriado.dfm</Transaction>
+    <Transaction>2016/09/23 11:07:52.000.353,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.pas</Transaction>
+    <Transaction>2016/09/23 14:33:16.000.109,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uFeriadoEdt.pas</Transaction>
+    <Transaction>2016/09/23 14:33:16.000.109,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uFeriadoEdt.dfm</Transaction>
+    <Transaction>2016/09/23 14:53:50.000.306,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.pas</Transaction>
+    <Transaction>2016/11/10 15:23:26.000.891,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uPerfilUsuario.pas</Transaction>
+    <Transaction>2016/11/10 15:23:26.000.891,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uPerfilUsuario.dfm</Transaction>
+    <Transaction>2016/11/10 15:45:04.000.951,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.pas</Transaction>
+    <Transaction>2016/11/11 09:44:47.000.876,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uPerfilUsuarioEdt.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.pas</Transaction>
+    <Transaction>2016/11/11 09:44:47.000.876,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uPerfilUsuarioEdt.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.dfm</Transaction>
+    <Transaction>2016/11/11 09:46:48.000.814,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.pas</Transaction>
+    <Transaction>2016/11/16 16:26:01.000.352,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uHorarioBatida.pas</Transaction>
+    <Transaction>2016/11/16 16:26:01.000.352,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uHorarioBatida.dfm</Transaction>
+    <Transaction>2016/11/16 16:28:33.000.109,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.pas</Transaction>
+    <Transaction>2016/11/17 08:36:15.000.520,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uHorarioPontoEdit.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.dfm</Transaction>
+    <Transaction>2016/11/17 08:36:15.000.520,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uHorarioPontoEdit.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.pas</Transaction>
+    <Transaction>2016/11/17 08:37:15.000.329,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.pas</Transaction>
+    <Transaction>2016/11/22 08:22:37.000.596,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uFuncionario.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.pas</Transaction>
+    <Transaction>2016/11/22 08:22:37.000.596,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uFuncionario.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.dfm</Transaction>
+    <Transaction>2016/11/22 08:23:08.000.690,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriado.pas</Transaction>
+    <Transaction>2016/11/23 17:14:34.000.718,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uFuncionarioEdt.pas=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.pas</Transaction>
+    <Transaction>2016/11/23 17:14:34.000.718,D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uFuncionarioEdt.dfm=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.dfm</Transaction>
+    <Transaction>2016/11/28 09:26:42.000.102,=D:\Clodoaldo\Desenvolvimento de Software\Projetos\Ponto\uTipoFeriadoEdt.pas</Transaction>
+  </Transactions>
+</BorlandProject>
